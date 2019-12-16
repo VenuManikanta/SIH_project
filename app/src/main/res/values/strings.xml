@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="login_as_police">Login as Police</string>
+    <string name="login">LOGIN</string>
+</resources>
